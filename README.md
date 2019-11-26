@@ -6,7 +6,7 @@
 
 
 # airbnb-clone-react
-Clone do spotify desenvolvido no Bootcamp da rocketseat
+Clone do airbnb desenvolvido no Bootcamp da rocketseat
 
 <p> Tipo: <strong> Projeto Pratico</strong> </p>
 
